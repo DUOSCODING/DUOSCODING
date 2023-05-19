@@ -7,3 +7,4 @@
  [`Other`]
  ### You can find all my projects on this page, and my videos through the links in my bio.
  
+ [`https://duoscoding.github.io/`]
