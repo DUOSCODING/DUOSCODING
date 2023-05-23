@@ -12,3 +12,26 @@
   <br>
 <img src="https://komarev.com/ghpvc/?username=DUOSCODING" alt="" align="center" />
  </center>
+
+## Skills
+
+<center>
+ <p align="center">
+  <a href="https://skillicons.dev/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github,html,css,js,vscode,typescript&theme=dark"
+    />
+  </a>
+</p>
+ </center>
+ 
+ ## Statistics of coding languages I use
+ 
+ <center>
+  <p align="center">
+ <summary> Most Used Languages (Stats) </summary>
+   
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUOSCODING&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+ </p>
+ </center>
